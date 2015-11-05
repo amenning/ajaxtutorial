@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<response>
+	<people>
+		<person>
+			<name>
+				Bucky Roberts
+			</name>
+			<ssn>
+				sfs7897897789
+			</ssn>
+		</person>
+		<person>
+			<name>
+				Mike Test
+			</name>
+			<ssn>
+				fdsjf23482933
+			</ssn>
+		</person>
+	</people>
+</response>
